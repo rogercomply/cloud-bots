@@ -1,4 +1,4 @@
-# sillybots
+# Cloudbots
 
 All bots identified by the following user agent strings: 
 
@@ -8,3 +8,4 @@ All bots identified by the following user agent strings:
 
 * "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0"
  
+[https://blog.paranoidpenguin.net/2019/03/a-digital-ocean-of-bots/](https://blog.paranoidpenguin.net/2019/03/a-digital-ocean-of-bots/) 
